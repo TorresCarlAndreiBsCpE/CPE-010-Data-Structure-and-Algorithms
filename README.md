@@ -10,7 +10,7 @@
 | **Instructor** | *Engr. Jimlord Quejado* |
 | **Primary Language** | C++ |
 
-# THIS REPOSITORY IS FOR DATA STRUCTURE AND ALGORITHMS THAT CONTAINS ALL HANDS-ON ACTIVITIES FROM PRELIM, MIDTERM, FINALS.
+# THIS REPOSITORY IS FOR DATA STRUCTURE AND ALGORITHMS THAT CONTAINS ALL HANDS-ON ACTIVITIES and EXAMS FROM PRELIM, MIDTERM, FINALS.
 
 # COURSE DESCRIPTION
 - This course focuses on solving computational problems that manipulate collected data, studying a core set of data
